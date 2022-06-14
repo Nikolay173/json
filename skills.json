@@ -1,0 +1,16 @@
+{
+  "skills_that_i_will_gain_at_the_end_of_the_course":[
+    "what_is_testing","bug_reports","test_referral_methods"
+    ,"client_server_architecture","server_request_methods"
+    ,"http_server_response_codes"
+    ,"http_request_and_response_structures"
+    ,"what_is_json_xml_and_their_structure","api_testing_via_postman"
+    ,"removing_and_reading_logs_from_an_external_server"
+    ,"sniffing_http_web_traffic_via_charles_and_fiddler"
+    ,"devtools_web_browsers_google_chrome_firefox","building_android_applications_on_android_studio"
+    ,"adb_android_device_management","proxy_and_vpn_setup_on_ios_and_android"
+    ,"sniffing_mobile_raffic through_charlis_and_fidler_on_ios_and_android"
+    ,"command_line_on_Linux_copy_create_view_move_on_non-GUI_servers_basics_of_bashscripting_automation_of_tasks_on_the_server","basics_sql_creat_delete_drop_insert_into_select_ware_join_access_to_remote_servers"
+    ,"postgres_database_installation_setup_and_usage","non-relational database_redis_installation_setup_use"]
+}
+
